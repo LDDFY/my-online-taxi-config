@@ -1,5 +1,5 @@
 
-env: master-qax
+env: master-qan
 env1: master-qa2
 server: 
   port: 8012
